@@ -41,7 +41,7 @@ import { FlickityModule } from 'ngx-flickity';
    ]
  }
  ```
- 
+
 ## Configuration
 
 ### Options
